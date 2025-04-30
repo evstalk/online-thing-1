@@ -1,0 +1,34 @@
+.container
+{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(19, 0, 229);
+    outline-color: rgb(29, 29, 180);
+    outline-style: solid;
+    outline-width: 10px;
+    position: absolute;
+    left: 625px;
+    top: 225px;
+}
+.thecontained
+{
+    height: 290px;
+    width: 290px;
+    left: 630px;
+    top: 230px;
+    position: absolute;
+}
+.title
+{
+    left: 635px;
+    top: 100px;
+    position: absolute;
+    color: rgb(157, 0, 18);
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+.para
+{
+    color: rgb(19, 47, 141);
+    position: absolute;
+    text-shadow: -0.5px -0.5px 0 #000, 0.5px -0.5px 0 #000, -0.5px 0.5px 0 #000, 0.5px 0.5px 0 #000;
+}
